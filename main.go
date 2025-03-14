@@ -37,9 +37,9 @@ type (
 
 	todo struct {
 		ID        string    `json:"id"`
-		Title     string    `json"title"`
+		Title     string    `json:"title"`
 		Completed bool      `json:"completed"`
-		CreatedAt time.Time `json:createAt`
+		CreatedAt time.Time `json:"createAt"`
 	} //this is of JSON type that we will send to frontend
 )
 
