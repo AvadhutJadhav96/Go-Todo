@@ -1,4 +1,4 @@
-# Todo API with MongoDB
+# Todo API with GO and MongoDB
 
 ## Overview
 This is a RESTful API for a simple Todo application built using Go, Chi router, and MongoDB. The API allows users to create, read, update, and delete (CRUD) todo items.
